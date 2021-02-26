@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/tomlawson/goquest-bot)
+[![GitHub](https://img.shields.io/github/license/tomlawson/goquest-bot)](https://github.com/TomLawson/goquest-bot/blob/main/LICENSE)
 [![Go Report Card](https://goreportcard.com/badge/github.com/tomlawson/goquest-bot)](https://goreportcard.com/report/github.com/tomlawson/goquest-bot)
 ![Lines of code](https://img.shields.io/tokei/lines/github/tomlawson/goquest-bot)
 ![GitHub top language](https://img.shields.io/github/languages/top/tomlawson/goquest-bot)
